@@ -1,0 +1,11 @@
+print('{:>16}'.format('*'))
+print('{:>17}'.format('*'*3))
+print('{:>18}'.format('*'*5))
+print('{:>19}'.format('*'*7))
+print('{:>20}'.format('*'*9))
+
+print('{:>20}'.format('*'*9))
+print('{:>19}'.format('*'*7))
+print('{:>18}'.format('*'*5))
+print('{:>17}'.format('*'*3))
+print('{:>16}'.format('*'))
