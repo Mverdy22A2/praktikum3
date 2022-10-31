@@ -5,7 +5,7 @@ parameter akhir dalam fungsi cetak di gunakan untuk menambahkan string apapun. d
 
 # penggunaan end
 
-print('A', end='')
+#### print('A', end='')
 print('B', end='')
 print('C', end='')
 print()
