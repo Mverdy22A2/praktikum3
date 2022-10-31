@@ -5,6 +5,9 @@ parameter akhir dalam fungsi cetak di gunakan untuk menambahkan string apapun. d
 
 # penggunaan end
 
+![Screenshot_1](https://user-images.githubusercontent.com/115523263/198934384-602bcf6b-bf49-4a9f-b91f-4c88413d6387.png)
+
+
 #### print('A', end='')
 print('B', end='')
 print('C', end='')
