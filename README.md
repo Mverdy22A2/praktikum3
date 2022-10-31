@@ -5,7 +5,7 @@ parameter akhir dalam fungsi cetak di gunakan untuk menambahkan string apapun. d
 
 ![Screenshot_1](https://user-images.githubusercontent.com/115523263/198934384-602bcf6b-bf49-4a9f-b91f-4c88413d6387.png
     
-##penggunaan separator
+## penggunaan separator
 
 ![Screenshot_2](https://user-images.githubusercontent.com/115523263/198934566-823b4137-a911-424d-8a46-99b05d76ad33.png)
 
@@ -23,7 +23,7 @@ String Formatting atau Pemformatan string memungkinkan kita menyuntikkan item ke
 
 ![Screenshot_5](https://user-images.githubusercontent.com/115523263/198937808-eb4735a0-b23d-4520-b898-95bc7f3686ba.png)
 
-#latihan 2
+# latihan 2
 
 ## input variabel
 
@@ -53,21 +53,21 @@ Mencetak kembali hasil mengkonversi nilai kedua variabel
 
 ![Screenshot_10](https://user-images.githubusercontent.com/115523263/198938802-4f207bc6-394d-44ca-abd6-2f6563be02cf.png)
 
-#hasil latihan 2
+# hasil latihan 2
 
 ![Screenshot_10](https://user-images.githubusercontent.com/115523263/198939000-efceabae-deee-46cc-a19c-9d963984ca49.png)
 
-#latihan 3
+# latihan 3
 
 ## membuat belah ketupat menggunakan string format
 
 ![Screenshot_12](https://user-images.githubusercontent.com/115523263/198939224-66f610ac-78f3-4ffe-b35e-b009f5ec6c38.png)
 
-#hasil latihan 3
+# hasil latihan 3
 
 ![Screenshot_13](https://user-images.githubusercontent.com/115523263/198939321-f01fc9b0-299d-401d-bba9-37aa4d364d85.png)
 
-#latihan 4 luas lingkarang
+# latihan 4 luas lingkarang
 ## Flowchart untuk mencari Luas Lingkaran
 
 ![flowchat lingkaran](https://user-images.githubusercontent.com/115523263/198827073-854f9f41-7377-427f-a225-4c4987908827.jpg)
