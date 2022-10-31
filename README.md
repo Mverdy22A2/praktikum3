@@ -5,13 +5,13 @@ parameter akhir dalam fungsi cetak di gunakan untuk menambahkan string apapun. d
 
 # penggunaan end
 
-print('a',end='')
-print('b',end='')
-print('c',end='')
-print()
-print('x')
-print('y')
-print('z')
+### print('a',end='')
+### print('b',end='')
+### print('c',end='')
+### print()
+### print('x')
+### print('y')
+### print('z')
 
 #penggunaan separator
 
