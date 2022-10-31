@@ -91,6 +91,6 @@ Nilai Phi adalah 3,14 atau 22/7
 
 ![Screenshot_16](https://user-images.githubusercontent.com/115523263/198940647-3350bb97-ea88-4a20-aa94-7aab47312b44.png)
 
-#hasil latihan 4
+# hasil latihan 4
 
 ![Screenshot_18](https://user-images.githubusercontent.com/115523263/198940983-686f1faf-e6a8-4a79-a2a4-ed12341a0209.png)
