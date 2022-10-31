@@ -73,7 +73,7 @@ Mencetak kembali hasil mengkonversi nilai kedua variabel
 ![flowchat lingkaran](https://user-images.githubusercontent.com/115523263/198827073-854f9f41-7377-427f-a225-4c4987908827.jpg)
 
 ## Membuat Program untuk Mencari Luas Lingkaran
-Rumus Luas Lingkaran adalah phirr atau phi*r²
+Rumus Luas Lingkaran adalah phir/r atau phi*r²
 
 ![Screenshot_17](https://user-images.githubusercontent.com/115523263/198940791-8650093f-d6d0-48ea-90b2-01cda2ddb465.png)
 
