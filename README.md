@@ -55,7 +55,7 @@ Mencetak kembali hasil mengkonversi nilai kedua variabel
 
 # hasil latihan 2
 
-![Screenshot_10](https://user-images.githubusercontent.com/115523263/198939000-efceabae-deee-46cc-a19c-9d963984ca49.png)
+![Screenshot_11](https://user-images.githubusercontent.com/115523263/198941618-620ce6d2-b623-4f1d-969f-3d9dba90c78d.png)
 
 # latihan 3
 
